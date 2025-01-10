@@ -1,5 +1,5 @@
 import Lottie from 'lottie-react';
-import animationData from '../../assets/Pnonebook-anim.json';
+import animationData from '../../public/Pnonebook-anim.json';
 import s from '../LottieAnimation/LottieAnimation.module.css';
 
 const LottieAnimation = () => {
